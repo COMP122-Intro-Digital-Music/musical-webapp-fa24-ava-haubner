@@ -1,7 +1,7 @@
 [
   {
     "name": "sample1",
-    "file": "samples/https://github.com/COMP122-Intro-Digital-Music/musical-webapp-fa24-ava-haubner/blob/main/samples/audiomassclip1.mp3",
+    "file": "samples/audiomassclip1.mp3",
     "bpm": "120",
     "loop": "1m"
   },
