@@ -7,13 +7,13 @@
   },
   {
     "name": "sample2",
-    "file": "samples/https://github.com/COMP122-Intro-Digital-Music/musical-webapp-fa24-ava-haubner/blob/main/samples/audiomassclip2.mp3",
+    "file": "samples/audiomassclip2.mp3",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "sample 3",
-    "file": "samples/https://github.com/COMP122-Intro-Digital-Music/musical-webapp-fa24-ava-haubner/blob/main/samples/audiomassclip3.mp3",
+    "file": "samples/audiomassclip3.mp3",
     "bpm": "120",
     "loop": "1m"
   }
